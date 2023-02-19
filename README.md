@@ -11,5 +11,6 @@
   &nbsp;
   <img src="https://github.com/KLYCHUB/flutter_information_app_about_countries/blob/master/ss/5.png?raw=true" height="480",width="270">
   &nbsp;
-  
+  <img src="https://github.com/KLYCHUB/flutter_information_app_about_countries/blob/master/ss/6.png?raw=true" height="480",width="270">
+  &nbsp;
 </div>
